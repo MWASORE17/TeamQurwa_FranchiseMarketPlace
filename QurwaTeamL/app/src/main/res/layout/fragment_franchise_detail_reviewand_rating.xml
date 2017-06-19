@@ -1,0 +1,62 @@
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:clipToPadding="false"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/colorwhitegold"
+        tools:context="com.williamsumitromytextview.qurwateam.view.fragment.FranchiseDetailReviewandRating">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/msgview"
+            android:layout_height="460dp"
+            android:layout_width="match_parent"
+            android:stackFromBottom="true"
+            android:transcriptMode="alwaysScroll"
+            android:layout_weight="0.88">
+        </android.support.v7.widget.RecyclerView>
+
+        <!--<ListView-->
+            <!--android:id="@+id/msgview"-->
+            <!--android:layout_height="500dp"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:stackFromBottom="true"-->
+            <!--android:transcriptMode="alwaysScroll"-->
+            <!--android:layout_weight="0.88">-->
+        <!--</ListView>-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="3">
+            <!--<LinearLayout-->
+                <!--android:gravity="bottom"-->
+                <!--android:layout_marginBottom="0dp"-->
+                <!--android:paddingBottom="0dp"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:orientation="horizontal"-->
+                <!--android:layout_gravity="fill_vertical">-->
+                <EditText
+                    android:id="@+id/msg"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:layout_weight="2" />
+                <Button
+                    android:id="@+id/send"
+                    android:layout_width="20dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="@color/black"
+                    android:text="Send" />
+            <!--</LinearLayout>-->
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

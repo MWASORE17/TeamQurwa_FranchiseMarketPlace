@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <group android:id="@+id/group_feature"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_item_home"
+            android:checked="true"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_item_bookmark"
+            android:icon="@drawable/ic_book"
+            android:title="Bookmark" />
+        <item
+            android:id="@+id/nav_item_search"
+            android:icon="@drawable/ic_search"
+            android:title="Search" />
+    </group>
+
+    <group android:id="@+id/group_others"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_item_about_us"
+            android:icon="@drawable/ic_contact"
+            android:title="About Us" />
+        <item
+            android:id="@+id/nav_item_rate_our_ap"
+            android:icon="@drawable/ic_love"
+            android:title="Rate Our App" />
+        <item
+            android:id="@+id/nav_item_terms_of_use"
+            android:icon="@drawable/ic_security"
+            android:title="Privacy / Terms of Use" />
+        <item
+            android:id="@+id/nav_item_how_it_works"
+            android:icon="@drawable/ic_build"
+            android:title="How It Works" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon = "@drawable/ic_power_settings_new_black_24dp"
+            android:title="Logout" />
+    </group>
+
+</menu>

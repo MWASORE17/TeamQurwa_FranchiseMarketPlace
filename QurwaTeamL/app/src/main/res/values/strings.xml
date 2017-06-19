@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Pikachise Market</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">Join Us</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Android Tutorials Hub</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_bookmark">Bookmark</string>
+    <string name="nav_franchise_alerts">Franchise Alerts</string>
+    <string name="nav_rate_our_app">Rate Our App</string>
+    <string name="nav_privacy">Privacy / Terms of Use</string>
+    <string name="nav_about_us">About Us</string>
+    <string name="nav_how_it_works">How It Works</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Bookmark</item>
+        <item>Franchise Alerts</item>
+    </string-array>
+
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_aboutus">PIKACHISE MARKET WILL MAKE YOUR BUSINESS BECOME </string>
+    <string name="aboutus">This application is engaged in marketing franchise by providing the best facilities in indonesia. With the various features we provide, will simplify the process of searching and your business processes</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="back">BACK</string>
+    <string name="slide_1_title">Search your franchise !</string>
+    <string name="slide_1_desc">You want to open a business ? We provide so many franchise, just search what you want !</string>
+
+    <string name="slide_2_title">Bookmark Now !</string>
+    <string name="slide_2_desc">You can bookmark franchise which you think it will be useful</string>
+
+    <string name="slide_3_title">Event !!!</string>
+    <string name="slide_3_desc">We also provide you all events ! Just stay tune !</string>
+
+    <string name="slide_4_title">Contact them</string>
+    <string name="slide_4_desc">If you are sure to build a relationship with franchisor ! Just contact them by call, sms, or email !</string>
+
+    <string name="rate_us">Do you enjoy the Pikachise App ? Recommend us to others by leaving us a review</string>
+    <string name="button_rate">Rate Us</string>
+    <string name="subject">Subject of Email</string>
+    <string name="write">Write your feedback here</string>
+    <string name="judulterms1">Bookings</string>
+    <string name="terms1">1 The Client acknowledges that when they request the publication of Copy in any OM publication that they shall do so by contacting OM directly or through a media agency and the Client will subsequently be supplied with a Booking request form or an official agency insertion request. The Client acknowledges that they shall be required to sign the appropriate form and return it in order for a Booking to be made and/or confirmed.
+    \n\n 2 The Client acknowledges and agrees that in the event that OM fails (for any reason) to issue a booking or insertion request but does provide the requested Services that the Client shall be liable to pay for the Services as if a booking or insertion request had actually been provided.</string>
+    <string name="judulterms2">Client Warranties</string>
+    <string name="terms2">1 The Client warrants that all Copy lodged with OM;
+        \na. complies with all laws, statutes, regulations, codes of practice and any standards applicable to the publication of Copy as determined by any relevant regulatory agency or industry self regulatory body; and
+        \nb. complies with any standard or requirement specified by OM and notified to the Client from time to time; and
+        \nc. does not infringe copyright, trademark or any other legal rights of another person; and
+        \nd. is not false or misleading and is true in substance and in fact; and
+        \ne. does not use the name and/or image of any person without their consent; and
+        \nf. without limiting the above, does not infringe the Trade Practices Act 1974 (Cth) or the Fair Trading Act of any State of Australia (including any substitute to those Acts or re-enactment thereof); and
+        \ng. does not contain anything which may give rise to any cause of action by a third party against OM, including, but not limited to, material that is defamatory, obscene, or which may otherwise cause damage or injury to any person.
+    \n\n2 Under pressure of deadline OM reserves the right to amend copy if OM believes that the Copy (or any part of it) contravenes any of the above provisions, such amendments shall be made without any liability to the Client or Price reduction whatsoever.</string>
+    <string name="judulterms3">Price and Payment</string>
+    <string name="terms3" formatted="false">1 At OM’s sole discretion the Price (subject to clause 8.2) shall be either:
+    \n(a) as indicated on invoices provided by OM to the Client in respect of Services supplied; or
+    \n(b) OM’s Price as specified in OM’s Booking form.
+    \n\n2 OM reserves the right to amend the Price where the Client requests any change to the Services to be provided and upon which the Price of the original Booking was based.
+    \n\n3 OM may at the request of the Client agree to produce Copy or other materials for the Client for a negotiated fee, which fee shall be charged in addition to the Price payable for any advertising or Services requested via a Booking form.
+    \n\n4 If the Client is an advertising agency then the agency may claim an agency rebate of ten percent (10%) of the Price payable less GST. Such rebate shall only be applicable where payment is made by the invoice due date.
+    \n\n5 At OM’s sole discretion a non refundable deposit of forty percent (40%) may be required.
+    \n\n6 At OM’s sole discretion payment shall be due before the provision of any Services.
+    \n\n7 Time for payment for the Services shall be of the essence and will be stated on the invoice or any other forms. If no time is stated then payment shall be due fourteen (14) days following the date of the invoice.
+    \n\n8 Payment may be made by cheque, or by bank cheque, or by credit card (plus a surcharge of up to five percent (5%) of the Price), or by direct credit, or by any other method as agreed to between the Client and OM.
+    \n\n9 GST and other taxes and duties that may be applicable shall be added to the Price except when they are expressly included in the Price.
+    \n\n10 ALL TRANSACTIONS ARE PROCESSED IN AUSTRALIAN DOLLARS</string>
+    <string name="judulterms4">Delivery of Services</string>
+    <string name="terms4">1 Delivery shall be deemed to have taken place immediately that OM has provided its Services and/or advertising has been published either in any Publication or website by OM in accordance with the agreed booking.
+    \n\n2 The failure of OM to deliver shall not entitle either party to treat this contract as repudiated.
+    \n\n3 OM shall not be liable for any loss or damage whatsoever due to failure by OM to deliver the Services (or any of them) promptly or at all where due to circumstances beyond the control of OM.</string>
+    <string name="judulterms5">Security and Charge</string>
+    <string name="terms5">Despite anything to the contrary contained herein or any other rights which OM may have howsoever:
+    \na. where the Client and/or the Guarantor (if any) is the owner of land, realty or any other asset capable of being charged, both the Client and/or the Guarantor agree to mortgage and/or charge all of their joint and/or several interest in the said land, realty or any other asset to OM or OM’s nominee to secure all amounts and other monetary obligations payable under these terms and conditions. The Client and/or the Guarantor acknowledge and agree that OM (or OM’s nominee) shall be entitled to lodge where appropriate a caveat, which caveat shall be withdrawn once all payments and other monetary obligations payable hereunder have been met.
+    \nb. should OM elect to proceed in any manner in accordance with this clause and/or its sub-clauses, the Client and/or Guarantor shall indemnify OM from and against all OM’s costs and disbursements including legal costs on a solicitor and own client basis.
+    \nc. the Client and/or the Guarantor (if any) agree to irrevocably nominate constitute and appoint OM or OM’s nominee as the Client’s and/or Guarantor’s true and lawful attorney to perform all necessary acts to give effect to the provisions of this clause 14.1.</string>
+
+
+</resources>
